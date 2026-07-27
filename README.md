@@ -1,5 +1,3 @@
-# pietroabrambilla.github.io
-Support and privacy policy pages for Sudoku App — iOS app by Pietro Brambilla
 # Sudoku App — Pietro Brambilla
 
 This repository hosts the public support and privacy policy pages for **Sudoku App**, an iOS puzzle game.
