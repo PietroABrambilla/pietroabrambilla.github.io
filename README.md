@@ -5,7 +5,7 @@ This repository hosts the public support and privacy policy pages for **Sudoku A
 ## Pages
 
 - [Privacy Policy](https://pietroabrambilla.github.io/PRIVACY)
-- [Support](https://pietroabrambilla.github.io/Index.html)
+- [Support](https://pietroabrambilla.github.io/index.html)
 ## About the App
 
 Sudoku App is a clean, minimal Sudoku puzzle game for iPhone.  
