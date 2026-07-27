@@ -13,4 +13,4 @@ It works fully offline, requires no account, and collects no personal data.
 
 ## Contact
 
-For any questions or feedback: pietro.brambilla@icloud.com
+For any questions or feedback: brambilla.pietro.a@gmail.com
